@@ -1,0 +1,1 @@
+DATABASE_URL=postgresql://testuser:testpassword@example.invalid:5432/testdb
